@@ -1,3 +1,4 @@
+```
 **Smart-Banking-Ledger-Fraud-Detection-System**
 A robust, secure, and analytical relational database blueprint designed for a modern FinTech application. This project models core banking functionalities—including customer profiling, multi-account management,and transaction ledgering—while implementing strict database-level security protocols and real-time ledger tracking.
 
@@ -71,3 +72,5 @@ Instead of hardcoding running balances into the database tables (which causes ra
 
 📝 **Project Context**
 *This project was built to practically apply and showcase skills verified by the HackerRank SQL Intermediate Certification.*
+
+```
